@@ -1,1 +1,7 @@
-console.log("hello world");
+function sayHi(name){
+	console.log("Hi " + name);
+};
+
+function sayBye(name){
+	console.log("Bye " + name);
+};
