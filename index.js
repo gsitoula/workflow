@@ -5,3 +5,4 @@ function sayHi(name){
 function sayBye(name){
 	console.log("Bye " + name);
 };
+
