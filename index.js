@@ -6,3 +6,4 @@ function sayBye(name){
 	console.log("Bye " + name);
 };
 
+sarlanga
